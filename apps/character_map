@@ -1,5 +1,5 @@
 name=Character Map
-binary=/bin/character_map
+binary=/ui/bin/character_map
 icon=/ui/icons/apps/accessories-character-map.png
 accept=*.ttf
 author=Jeremy Soller

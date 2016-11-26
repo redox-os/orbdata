@@ -1,5 +1,5 @@
 name=Terminal
-binary=/bin/terminal
+binary=/ui/bin/terminal
 icon=/ui/icons/apps/utilities-terminal.png
 author=Jeremy Soller
 description=Terminal for Redox
