@@ -1,5 +1,5 @@
 name=Editor
-binary=/bin/editor
+binary=/ui/bin/editor
 icon=/ui/icons/apps/accessories-text-editor.png
 accept=*_REDOX
 accept=*.asm

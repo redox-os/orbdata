@@ -1,5 +1,5 @@
 name=Viewer
-binary=/bin/viewer
+binary=/ui/bin/viewer
 icon=/ui/icons/mimetypes/image-x-generic.png
 accept=*.bmp
 accept=*.jpg
