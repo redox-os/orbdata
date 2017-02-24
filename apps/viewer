@@ -1,6 +1,6 @@
 name=Viewer
 binary=/ui/bin/viewer
-icon=/ui/icons/mimetypes/image-x-generic.png
+icon=/ui/icons/apps/multimedia-photo-viewer.png
 accept=*.bmp
 accept=*.jpg
 accept=*.jpeg
