@@ -1,9 +1,9 @@
 name=Editor
 binary=/ui/bin/editor
 icon=/ui/icons/apps/accessories-text-editor.png
-accept=*_REDOX
 accept=*.asm
 accept=*.conf
+accept=*.html
 accept=*.ion
 accept=*.list
 accept=*.lua
