@@ -1,5 +1,3 @@
-background = [ "/ui/background.png" ]
-background_mode = "zoom"
 cursor = "/ui/left_ptr.png"
 bottom_left_corner = "/ui/bottom_left_corner.png"
 bottom_right_corner = "/ui/bottom_right_corner.png"
