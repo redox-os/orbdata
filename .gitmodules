@@ -1,3 +1,3 @@
 [submodule "icons"]
 	path = icons
-	url = https://github.com/redox-os/icons.git
+	url = https://gitlab.redox-os.org/redox-os/icons.git
