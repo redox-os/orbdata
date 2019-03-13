@@ -1,6 +1,0 @@
-name=Browser
-binary=/ui/bin/browser
-icon=/ui/icons/apps/internet-web-browser.png
-accept=*.html
-author=Jeremy Soller
-description=Browser for Redox
