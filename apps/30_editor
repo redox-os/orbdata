@@ -1,5 +1,5 @@
 name=Editor
-binary=/ui/bin/editor
+binary=/usr/bin/editor
 icon=/ui/icons/apps/accessories-text-editor.png
 accept=*.asm
 accept=*.conf

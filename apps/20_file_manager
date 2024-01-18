@@ -1,5 +1,5 @@
 name=File Manager
-binary=/ui/bin/file_manager
+binary=/usr/bin/file_manager
 icon=/ui/icons/apps/system-file-manager.png
 accept=*/
 author=Jeremy Soller
